@@ -9,12 +9,12 @@
             .hash = "N-V-__8AAJb6QwBAkBOVjg7v-0jgJT_ABV0UBSdxTjcmmEy4",
         },
         .libelf = .{
-            .url = "https://github.com/allyourcodebase/libelf/archive/15ce4e5d7f9226a48b0227497c85b7ad8f069a33.tar.gz",
-            .hash = "libelf-0.192.0-y7TJK9MnAACe3OcZQnArNTazJ9AuYk3obROaJxSxMyEv",
+            .url = "https://github.com/allyourcodebase/libelf/archive/e879333dc69c72fdffee56284fdfc8e561776a78.tar.gz",
+            .hash = "libelf-0.192.0-y7TJK-4nAAApPlgfZOtYA2zsMSrs6s6OdU_quv6n5WwZ",
         },
         .zlib = .{
-            .url = "https://github.com/allyourcodebase/zlib/archive/refs/tags/1.3.1.tar.gz",
-            .hash = "zlib-1.3.1-AAAAACEMAAA0qyoSrfgBb_p25ItL4yRf_TBRk-26TYMF",
+            .url = "https://github.com/allyourcodebase/zlib/archive/c5115f4b69ef660f72a835c6638f80508ef284c7.tar.gz",
+            .hash = "zlib-1.3.1-1-ZZQ7ldENAAA7qJjUXP6E6xnRuV-jDL9dyoJFc_eb3zQ6",
         },
     },
     .paths = .{
